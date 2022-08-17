@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="Hello! Im Bruno (noxx) and im Studing!" src="https://tenor.com/es/ver/coding-gif-18657810" /></a></p>
+<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="Hello! Im Bruno (noxx) and im Studing!" src="https://mattermark.com/developers-developers-developers-expensive/" /></a></p>
 
 <br />
 
