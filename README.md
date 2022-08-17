@@ -28,7 +28,7 @@ I'm a self-taught developer from Uruguay 🇺🇾
 <a href="https://github.com/noxx01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=JavaKeyboardEntry&theme=buefy" />
 </a>
-<a href="https://github.com/noxx01/noxx10.github.io">
+<a href="https://github.com/noxx01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=javaivacalcalculator&theme=buefy" />
 </a>
 
