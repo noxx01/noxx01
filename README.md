@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="noxx#166" src="https://mattermark.com/developers-developers-developers-expensive/" /></a></p>
 
 <br />
 
