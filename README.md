@@ -26,16 +26,16 @@ I'm a self-taught developer from Uruguay 🇺🇾
 
 
 <a href="https://github.com/noxx01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=JavaKeyboardEntry&theme=buefy" />
 </a>
 <a href="https://github.com/noxx01/noxx10.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=noxx10.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=javaivacalcalculator&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/elnoxx16">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/noxx10/noxx10/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/noxx10">
