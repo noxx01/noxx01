@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="noxx#1966" src="https://indiehoy.com/entrevistas/saramalacara-ahora-nadie-quiere-sonar-como-trap/" /></a></p>
+![noxx#1966](https://indiehoy.com/entrevistas/saramalacara-ahora-nadie-quiere-sonar-como-trap/)
 
 <br />
 
