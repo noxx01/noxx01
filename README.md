@@ -1,8 +1,8 @@
-<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="Hello! Im Bruno (noxx) and im Studing!" src="https://mattermark.com/developers-developers-developers-expensive/" /></a></p>
+<p align="center"><a href="https://youtube.com/c/ImNox"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Uruguay 🇺🇾
+I'm a self-taught developer from Uruguay 🇺🇾
 
 **About me**
 
