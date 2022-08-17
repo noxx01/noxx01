@@ -1,4 +1,4 @@
-![noxx#1966](https://indiehoy.com/entrevistas/saramalacara-ahora-nadie-quiere-sonar-como-trap/)
+<p align="center"><a href="https://noxx01.github.io"><img width="50%" alt="noxx#1966" src="https://indiehoy.com/wp-content/uploads/2021/03/saramalacara-1200x675.jpg" /></a></p>
 
 <br />
 
