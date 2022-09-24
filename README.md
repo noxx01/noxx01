@@ -8,7 +8,7 @@ I'm a self-taught developer from Uruguay 🇺🇾
 
 - 💼 Currently studing Java
 
-- 📈 Some knowledge on Python, Java & Javascript!
+- 📈 Some knowledge on Java, CSS & HTML, currently studing JS.
 
 - ❤️ I love playing videogames & coding!
 
