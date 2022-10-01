@@ -24,10 +24,10 @@ I'm a self-taught developer from Uruguay 🇺🇾
 
 
 <a href="https://github.com/noxx01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=JavaKeyboardEntry&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=grades&theme=buefy" />
 </a>
 <a href="https://github.com/noxx01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=javaivacalculator&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noxx01&repo=grades&theme=buefy" />
 </a>
 
 <br />
